@@ -1,6 +1,1 @@
-const unusedVar = "hello"
-console.log("This has double quotes and no semicolon")
-function test() {
-  let x = 5
-  return x
-}
+const message = 'hello';\nconsole.log(message);\nfunction test() {\n  let x = 5;\n  return x;\n}
