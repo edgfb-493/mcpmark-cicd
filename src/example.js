@@ -1,0 +1,1 @@
+const message = 'hello';\nconsole.log(message);\nfunction test() {\n  let x = 5;\n  return x;\n}
